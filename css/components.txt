@@ -1,0 +1,9 @@
+
+used a basic bootstrap starter file as couldnt use starter one on moodle found here : 
+file came with css but added another file to show my css work 
+https://startbootstrap.com/template/bare
+
+all of my code accquirred from get bootstrap.com and w3schools
+on homepage added i added a navbar dropdown component and I added icons with links to linkedin these are button components all static bar linkedin
+experience webpage has card components to show where ive worked, with links to the companys pages
+on contact me page i added a contact form with a button component.  

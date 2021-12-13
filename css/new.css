@@ -1,0 +1,89 @@
+
+/* Orignal CSS came with bootstrap starter file this is all the extra css i added myself found on W3schools*/
+
+/* added myself */
+ul {
+    color: white;
+  }
+  
+  p1 {
+    color: white
+  }
+  
+  p2 {
+    color:white
+  }
+  p3 {
+    color: white;
+  }
+  
+  label {
+    color: white;
+  }
+  h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  
+  h5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: crimson;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: darkblue;
+    color: white;
+  }
+  
+  
+  
+  
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
